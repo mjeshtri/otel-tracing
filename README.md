@@ -14,7 +14,7 @@ docker compose up
 ```
 
 Then go to:
-- [(http://localhost:8080)](http://localhost:8080/ping) to access the web servise and do a couple of refresh-es to trigger some traces generation.
+- [http://localhost:8080](http://localhost:8080/ping) to access the web servise and do a couple of refresh-es to trigger some traces generation.
   you will see sth simple, a white page with json output:
   ```json
   {"message":"pong"}
